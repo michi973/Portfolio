@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio guide
 26.05.2025
 
 In this portfolio, you will find all of my personal projects. These projects can range from urban planning to personal finance and even music, and they are created using various tools. The primary tools I use are Python and QGIS, but they can vary widely. For this reason, to be more clear, each project will have a readme file in which every aspect of the project will be explained in detail.
